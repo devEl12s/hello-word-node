@@ -1,0 +1,28 @@
+{
+  "name": "test-hello-word",
+  "version": "1.0.0",
+  "description": "php con index",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devEl12s/hello-word-php.git"
+  },
+  "keywords": [
+    "\"javascript\"",
+    "\"nodejs\"",
+    "\"xampp\"",
+    "\"php\""
+  ],
+  "author": "devgatito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devEl12s/hello-word-php/issues"
+  },
+  "homepage": "https://github.com/devEl12s/hello-word-php#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
